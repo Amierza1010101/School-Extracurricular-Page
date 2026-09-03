@@ -51,8 +51,8 @@ section {
 .button {
     background-color: blue;
     color: white;
-    padding: 15px;
-    border-radius: 5px;
+    padding: 8px;
+    border-radius: 3px;
 }
 
 .card a {

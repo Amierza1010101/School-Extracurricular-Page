@@ -1,10 +1,15 @@
+/*Amy Chen
+Web Dev Quiz
+03/09/2026
+*/
+
 body {
     background-color: lightblue;
     color: black;
     font-family: arial;
 }
 
-header {
+header { /*header styling*/
     background: navy;
     color: white;
     padding: 10px;
@@ -48,7 +53,7 @@ section {
     gap: 15px;
 }
 
-.button {
+.button { /*button styling*/
     background-color: blue;
     color: white;
     padding: 8px;
